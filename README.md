@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+このアプリケーションはお城に少しでも興味がある人を対象にしたアプリケーションです。
+あまり城に興味がない方でも投稿した人のステキなお城の画像を見て、行ってみたい城や好きな城が見つかります。
+<br>**"あなたの好きな城が見つかる"**<br>
+をコンセプトにしています。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**このアプリケーションは現在(2021/2/23)ベータ版です。今後機能やビューを充実させていきます。**
